@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Quintana Consulting]]></title>
+        <description><![CDATA[Quintana Consulting]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 20:29:08 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Business Accounting, Tax Filing, Sales Tax Administration, Business Classification & Registration, Launch Strategies, Marketing Support, Networking Integration, Credit & Growth Advising, Budgeting & Financial Reporting, Business Audits, Document Notarizing, IT Infrastructure & Setup, Software Ecosystem, Website Direction, Human Resources Compliance, Investment Advice, Franchise Process, Product Launch Phases, </p>]]></description>
+            <link>undefinedb9491dd1-e635-4a19-ae53-a9455e64870f/index.html</link>
+            <guid isPermaLink="false">b9491dd1-e635-4a19-ae53-a9455e64870f</guid>
+            <pubDate>Thu, 28 Jan 2016 20:28:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
