@@ -1,0 +1,28 @@
+name: Quintana Consulting
+favicon: null
+layout_spectrum: 0.37025278876535594
+typography_spectrum: 0.5300129579845816
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7709294164087623
+  lightness: 0.16527765220962465
+  saturation: 0.15610650042071939
+  rhythmicContrast: 0.41410099947825074
+purpose: []
